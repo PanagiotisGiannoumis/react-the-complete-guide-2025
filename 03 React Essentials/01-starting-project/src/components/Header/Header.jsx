@@ -1,5 +1,8 @@
 // Import an image from assets folder
-import reactImg from '../assets/react-core-concepts.png';
+import reactImg from '../../assets/react-core-concepts.png';
+
+// Import Header.css file
+import './Header.css'
 
 // Create an array
 const reactDescriptions = ['Fundamental', 'Crusial', 'Core'];
